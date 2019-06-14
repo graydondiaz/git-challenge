@@ -8,7 +8,15 @@ At Outlier, you will be expected to be able to contribute features and fixes wit
 
 ## The Challenge
 
-There are two pull requests open on this repo. Each change is in its own branch. The challenge is to use `git rebase` to add both changes to `master`. Any errors, missing features, missing tests, or failing tests will disqualify the solution.
+There are two pull requests open on this repo. Each change is in its own branch. The challenge is to use `git rebase` to add both changes to `master`. When you are finished, your `master` branch should have three commits in the following order:
+
+```
+* feat: add base64 endpoint
+* feat: add user-agent endpoint
+* init
+```
+
+_ Any errors, missing features, missing tests, or failing tests will disqualify the solution. _
 
 ## Instructions
 
